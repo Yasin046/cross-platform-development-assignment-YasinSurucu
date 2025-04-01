@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878896224913",
+    "project_id": "travel-journal-beb23",
+    "storage_bucket": "travel-journal-beb23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878896224913:android:a7e969c7cf2b6da81abd30",
+        "android_client_info": {
+          "package_name": "com.example.travel_journal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnIlLlDNHuJ80HDDeTgueB9wTNvXbEB_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
