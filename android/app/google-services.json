@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "878896224913",
+    "firebase_url": "https://travel-journal-beb23-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "travel-journal-beb23",
     "storage_bucket": "travel-journal-beb23.firebasestorage.app"
   },
